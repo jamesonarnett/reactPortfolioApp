@@ -1,0 +1,20 @@
+.LinksContainer {
+  display: block;
+  position: absolute;
+  margin-top: 350px;
+}
+
+.zIndex {
+  list-style: none;
+  display: block;
+  position: absolute;
+  background-color: #151515;
+  z-index: 1;
+  color: white;
+}
+
+.ListItem {
+  text-decoration: none;
+  font-size: x-large;
+  padding: 20px;
+}

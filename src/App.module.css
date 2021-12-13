@@ -1,0 +1,15 @@
+* {
+  color: #ffffff;
+}
+body {
+  background-color: #151515;
+}
+
+.CardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  margin-left: 15%;
+}
