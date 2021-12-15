@@ -5,9 +5,9 @@ import ProjectCard from "./components/PortfolioProjects/ProjectCard";
 
 function App(props) {
   return (
-    <div fluid className="App">
+    <div fluid="true" className="App">
       <Navbar />
-      <div fluid className={classes.CardContainer}>
+      <div fluid="true" className={classes.CardContainer}>
         <ProjectCard />
         <ProjectCard />
         <ProjectCard />

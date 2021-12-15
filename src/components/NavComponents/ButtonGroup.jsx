@@ -5,7 +5,7 @@ import classes from "./ButtonGroup.module.css";
 
 const LinksButtonGroup = (props) => {
   return (
-    <ButtonGroup className={classes.buttonOnTop} vertical>
+    <ButtonGroup className={classes.buttonOnTop}>
       <Button>Button</Button>
       <Button>Button</Button>
       <Button>Button</Button>

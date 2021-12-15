@@ -1,0 +1,14 @@
+.container {
+  height: 200px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 2;
+  background-color: #a42daf;
+}
+
+.text {
+  text-align: center;
+  font-size: x-large;
+}

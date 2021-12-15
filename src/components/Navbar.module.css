@@ -10,10 +10,14 @@
 }
 
 .nav {
+  top: 0;
+  left: 0;
   height: 100%;
   width: 15%;
   position: fixed;
   padding: 20px;
+  overflow-x: hidden;
+  background-color: violet;
 }
 
 .wave {

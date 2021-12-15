@@ -1,3 +1,7 @@
 .buttonOnTop {
-  z-index: 11;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  padding: 10px;
+  z-index: 2;
 }
