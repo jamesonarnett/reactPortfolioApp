@@ -1,9 +1,14 @@
 # reactPortfolio
 
-A react app to take place of my website upon completion.
+A React app about myself, and to show of my projects. Hire me <3?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In traditional fashion -- All about yours truly. 
+Check it out at http://ajameson.com
 
+![Alt text](/portfolioImg.png?raw=true "Optional Title")
+
+
+or!
 ## Available Scripts
 
 In the project directory, you can run:
