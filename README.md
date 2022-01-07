@@ -6,6 +6,7 @@ In traditional fashion -- All about yours truly.
 Check it out at http://ajameson.com
 
 ![Alt text](/portfolioImg.png?raw=true "Optional Title")
+<img src="portfolioImgPhone.png" alt="portfolioPhoneSizedImg" />
 
 
 or!
