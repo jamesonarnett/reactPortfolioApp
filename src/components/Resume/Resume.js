@@ -13,8 +13,9 @@ function Resume() {
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
               title="Developer Projects"
-              date="Sept 2020 - Current"
+              date="2021 - Current"
               content={[
+                "JamGameJam-- A resource using 4 api's, for a game database, pokemon list, a free games page, and a few I coded myself!",
                 "ObligatoryCalculator-- Created using Vanilla Javascript, css, and html. Mastering the basics!",
                 "BlogApp-- Created using EJS, Node, and mongoDB. A learning experience in database managment",
                 "Pong ReVamped-- Created using Vanilla Javascript. A deep dive into OOP, and truly a labor of love! ",
@@ -27,7 +28,22 @@ function Resume() {
             <h3 className="resume-title">Education</h3>
             <Resumecontent
               title="Bachelors Computer Science- Colorado State University Global "
-              date="2020 - Present"
+              date="2021 - Current"
+              content={[]}
+            />
+            <Resumecontent
+              title="JavaScript Algorithms/Data Structures Cert - FreeCodeCamp "
+              date="2021"
+              content={[]}
+            />
+            <Resumecontent
+              title="Responsive Web Design Certification - FreeCodeCamp"
+              date="2021"
+              content={[]}
+            />
+            <Resumecontent
+              title="Front End Development Libraries Cert - FreeCodeCamp"
+              date="2022"
               content={[]}
             />
             <Resumecontent
@@ -35,18 +51,12 @@ function Resume() {
               date="2015-2016"
               content={[]}
             />
-
-            <h3 className="resume-title">Achievements</h3>
-            <Resumecontent
-              title=""
-              content={[`Still alive after 25 years of working on it`]}
-            />
           </Col>
           <Col>
             <h3 className="resume-title">Previous Career</h3>
             <Resumecontent
               title=" Owner/Estimator -- J&M Renovations LLC "
-              date="Oct 2020 - Dec 2021"
+              date="2020"
               content={[
                 `50% Owner/Operator of a small construction company located in Lake Charles, LA`,
                 `Delivered comprehensive bid proposals for construction projects and gained
@@ -59,7 +69,7 @@ create proposals and process work orders.`,
 
             <Resumecontent
               title="Construction Lead -- Snyder Development"
-              date="Oct 2017 - Oct 2020"
+              date="2017-2020"
               content={[
                 `Learned problem solving and persistence through renovating houses and small scale construction projects.`,
                 `Maintained positive working relationships with customers, vendors, and subcontractors.`,

@@ -16,8 +16,8 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               Technology has always been a passion of mine! From sharing my
-              families first home computer, to building my first very own PC at
-              14, I've been
+              families first home computer, to building my first PC at 14, I've
+              been
               <i>
                 {" "}
                 <b className="purple">HOOKED!</b>
@@ -83,7 +83,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/jameson-arnett-22a2a2109//"
+                  href="https://www.linkedin.com/in/jameson-arnett"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

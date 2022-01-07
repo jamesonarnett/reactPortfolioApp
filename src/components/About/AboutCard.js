@@ -14,17 +14,18 @@ function AboutCard() {
             Colorado State University Global!
             <br />
             <br />
-            When I'm not coding, or learning something new, I also enjoy
+            When I'm not coding, I also enjoy
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Gaming! (WoW, Divinity, COD)
+              <ImPointRight /> Reading! My love for learning doesnt stop at
+              coding.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Social Media Junkie
+              <ImPointRight /> Gaming! Who doesnt love Pokemon?
             </li>
             <li className="about-activity">
-              <ImPointRight /> Music! ~Forever LoFi Loop~
+              <ImPointRight /> Music! Playing or Listening! ~Forever LoFi Loop~
             </li>
           </ul>
         </blockquote>

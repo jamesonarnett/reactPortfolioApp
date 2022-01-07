@@ -7,7 +7,7 @@ const Logo = () => {
     <div>
       <img
         src={logoImg}
-        alt="my asshole here; srry mom"
+        alt="my logo here jArnett"
         className={classes.ProfileImg}
       />
     </div>
