@@ -15,12 +15,12 @@ function Resume() {
               title="Developer Projects"
               date="2021 - Current"
               content={[
-                "JamGameJam-- A resource using 4 api's, for a game database, pokemon list, a free games page, and a few I coded myself!",
+                "JamGameJam-- A free game resource using 4 API's, for a game database, a PokeDex, a freeToPlay games list, and Jeopardy!",
                 "ObligatoryCalculator-- Created using Vanilla Javascript, css, and html. Mastering the basics!",
-                "BlogApp-- Created using EJS, Node, and mongoDB. A learning experience in database managment",
+                "BlogApp-- Created using EJS, Node, and mongoDB. Really enjoyed the ease of use and utility of EJS.",
                 "Pong ReVamped-- Created using Vanilla Javascript. A deep dive into OOP, and truly a labor of love! ",
                 "NoteApp-- An app made with React.js to take and save all of your notes!! ",
-                "ToDoList--  database with MongoDB and mongoose. Mulitple list rendered. Hosted on heroku, using mongoAtlas",
+                "ToDoList--  Database with MongoDB and mongoose. Mulitple list rendered. Hosted on heroku, using mongoAtlas",
               ]}
             />
           </Col>
@@ -32,18 +32,18 @@ function Resume() {
               content={[]}
             />
             <Resumecontent
-              title="JavaScript Algorithms/Data Structures Cert - FreeCodeCamp "
+              title="JavaScript Algorithms/Data Structures Certification - FreeCodeCamp "
               date="2021"
+              content={[]}
+            />
+            <Resumecontent
+              title="Front End Development Libraries Certification - FreeCodeCamp"
+              date="2022"
               content={[]}
             />
             <Resumecontent
               title="Responsive Web Design Certification - FreeCodeCamp"
               date="2021"
-              content={[]}
-            />
-            <Resumecontent
-              title="Front End Development Libraries Cert - FreeCodeCamp"
-              date="2022"
               content={[]}
             />
             <Resumecontent

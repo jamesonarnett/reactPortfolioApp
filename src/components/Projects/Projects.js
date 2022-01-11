@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import jsCal from "../../Assets/projects/jsCal.png";
+import jChat from "../../Assets/projects/jChat.png";
 import blog from "../../Assets/projects/blog.png";
 import keeper from "../../Assets/projects/keeper2.png";
 import todo from "../../Assets/projects/todolist.png";
@@ -24,12 +24,12 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={jsCal}
+              imgPath={jChat}
               isBlog={false}
-              title="ObligatoryCalculator"
-              description='The OG "learn programming" project. Vanilla JS at its best'
-              link="https://github.com/jamesonarnett/ObligatoryCalculator"
-              linkP="https://jamalist.herokuapp.com/"
+              title="jChat"
+              description="An app made with React, Firebase, and chatEngine! Create your personal space, invite your friends, and chat with anyone, anywhere!"
+              link="https://github.com/jamesonarnett/jChat"
+              linkP="#"
             />
           </Col>
 
@@ -60,7 +60,7 @@ function Projects() {
               imgPath={keeper}
               isBlog={false}
               title="NoteApp"
-              description="An app made with React.js to take and save notes! While simple, it is a great introduction to React and using modular compenents which leads to creation of content like this very webpage!"
+              description="An app made with React.js to take and save notes! Bet you cant find the Easter Egg!"
               link="https://github.com/jamesonarnett/NoteApp"
               linkP="https://notekeepy.herokuapp.com/"
             />
