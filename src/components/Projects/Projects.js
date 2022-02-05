@@ -18,9 +18,7 @@ function Projects() {
         <h1 className="project-heading">
           My Recent <strong className="purple">PROJECTS </strong>
         </h1>
-        <p style={{ color: "white", fontSize: "12px" }}>
-          (Always looking to contribute. Message me!)
-        </p>
+
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
@@ -29,7 +27,7 @@ function Projects() {
               title="jChat"
               description="An app made with React, Firebase, and chatEngine! Create your personal space, invite your friends, and chat with anyone, anywhere!"
               link="https://github.com/jamesonarnett/jChat"
-              linkP="#"
+              linkP="https://zjchat.netlify.app"
             />
           </Col>
 

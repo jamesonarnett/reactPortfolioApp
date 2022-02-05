@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { AiFillGithub, AiOutlineTwitter } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaFreeCodeCamp } from "react-icons/fa";
 
 function Footer() {
   let date = new Date();
@@ -42,6 +42,16 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.freecodecamp.org/jamesonarnett"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <FaFreeCodeCamp />
               </a>
             </li>
           </ul>
